@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/urinary-incontinence-prosthesis---primary.py
+inputModule3:
+  class: File
+  path: python/urinary-incontinence---primary.py
+inputModule4:
+  class: File
+  path: python/urinary-incontinence-control---primary.py
+inputModule5:
+  class: File
+  path: python/urinary-incontinence-urine---primary.py
+inputModule6:
+  class: File
+  path: python/urinary-incontinence-stress---primary.py
+inputModule7:
+  class: File
+  path: python/urinary-incontinence-specified---primary.py
+inputModule8:
+  class: File
+  path: python/retropubic-urinary-incontinence---primary.py
+inputModule9:
+  class: File
+  path: python/incontinence---primary.py
+inputModule10:
+  class: File
+  path: python/urinary-incontinence-procedure---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
